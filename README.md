@@ -10,8 +10,8 @@ A random quote is also fetched from [https://dummyjson.com/quotes/random](https:
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/ViktorAndersson/countdown-app/
+cd countdown-app
 
 # Install dependencies
 npm install
